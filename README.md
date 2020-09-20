@@ -3,7 +3,7 @@ OpenCore 0.6.1 MSI B450M PRO VDH MAX CPU Ryzen5 3600 Vga Rx580
 - Change 'MLB', 'ROM', 'SystemSerialNumber' and 'SystemUUID' number to a valid value!
 - AMD Vanilla patch included & App AMD Power Gadget .
 
-EFI Folder for OpenCore Bootloader, version 0.5.9
+EFI Folder for OpenCore Bootloader, version 0.6.1
 Created with the help of OpenCore Vanilla Desktop Guide
 
 System Components :
