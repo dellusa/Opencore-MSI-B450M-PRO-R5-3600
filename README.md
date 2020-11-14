@@ -15,7 +15,7 @@ System Components :
 	
 	
 Software Versions :
-	-	OpenCore 0.6.3
-	-	MacOS Catalina 10.15.6 --> EFI.zip
-	-	MacOS Big Sur 11.0.1   --> EFI_BigSur.zip
+OpenCore 0.6.3
+MacOS Catalina 10.15.6 --> EFI.zip
+MacOS Big Sur 11.0.1   --> EFI_BigSur.zip
 	
