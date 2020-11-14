@@ -7,11 +7,11 @@ EFI Folder for OpenCore Bootloader, version 0.6.3
 Created with the help of OpenCore Vanilla Desktop Guide
 
 System Components :
-	-	MSI B450M PRO VDH MAX
-	-	AMD Ryzen 5 3600@4.4
-	-	Corsair LPX Ver 5.22 2666C16 @3733C16
-	-	Sapphire NITRO+ RX 580 8GB
-	-	SSD NVMe Lexar 512Gb
+- MSI B450M PRO VDH MAX
+- AMD Ryzen 5 3600@4.4
+- RAM Corsair LPX Ver 5.22 2666C16 @3800C16
+- Sapphire NITRO+ RX 580 8GB
+- SSD NVMe Lexar 512Gb
 	
 	
 Software Versions OC 0.63 :
