@@ -14,8 +14,7 @@ System Components :
 	-	SSD NVMe Lexar 512Gb
 	
 	
-Software Versions :
-OpenCore 0.6.3
+Software Versions OC 0.63 :
 MacOS Catalina 10.15.6 --> EFI.zip
 MacOS Big Sur 11.0.1   --> EFI_BigSur.zip
 	
